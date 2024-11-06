@@ -11,7 +11,7 @@ function filterHighTemperatures(temps) {
 // Write a `filterLowTemperatures` function that returns a new array containing temperatures less than 20 degrees Celsius.
 function filterLowTemperatures(temps) {
   return temperatures.filter((temp) => temp < 20); // Your code here
-}
+}//
 
 // Write a `convertCelsiusToFahrenheit` function that converts the entire list of temperatures to Fahrenheit, and return it. Use the formula (Celsius * 9/5) + 32.
 function convertCelsiusToFahrenheit(temps) {
